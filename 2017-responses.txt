@@ -1,7 +1,16 @@
 # of responses 211
 
-How many years climbing?
-How many years climbing outdoors?
+How many years climbing total (N=209)?
+
+Mean 8.43
+Median 6
+
+
+How many years climbing outdoors (N=209)?
+
+Mean 7.06
+Median 5
+
 What is your favourite Ontario crag?
 
 Are you an OAC member (N=202)
