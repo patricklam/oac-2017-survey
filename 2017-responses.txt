@@ -45,21 +45,21 @@ Are you an OAC member (N=202)
 76 No (38%)
 
 How do you obtain information about the OAC & its activities?
-
 [channels.png]
 
 How well do you understand the OAC's mission?
-
 [awareness-of-mission.png]
 
 How informed do you feel about the OAC's activities?
+[informed-of-activities.png]
 
 Do you feel like you hear enough from the OAC?
+[hear-enough.png]
 
 Do you trust the OAC to represent your climbing interests?
+[trust.png]
 
 Barriers to volunteering with the OAC?
-
 [barriers.png]
 
 Time: 71
