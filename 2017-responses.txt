@@ -2,17 +2,95 @@
 
 How many years climbing total (N=209)?
 
+years-climbing-total.pdf
+
 Mean 8.43
 Median 6
 
-
 How many years climbing outdoors (N=209)?
+
+years-climbing-outdoors.pdf
 
 Mean 7.06
 Median 5
 
 What is your favourite Ontario crag?
 
+favourite-crag.png
+
+other responses:
+      4 Calabogie
+      4 Rockwood
+      3 "Pass Lake (Thunder Bay)"
+      2 "Beaver Valley"
+      2 Eyeball
+      2 Quyon
+      2 "White's Bluff"
+      1 "Diamond Lake"
+      1 "Echo Crag - Sudbury"
+      1 "Gros Cap"
+      1 Haliburton-area
+      1 Kentucky
+      1 "McCrae Lake"
+      1 "Old Woman Bay"
+      1 "Orient Bay"
+      1 "OS bluffs"
+      1 "Summerian SLAB"
+      1 "The Paper Wall"
+      1 "Wakonassin/cup and saucer"
+
+
 Are you an OAC member (N=202)
 126 Yes (62%)
 76 No (38%)
+
+
+How well do you understand the OAC's mission?
+
+How informed do you feel about the OAC's activities?
+
+Do you feel like you hear enough from the OAC?
+
+Do you trust the OAC to represent your climbing interests?
+
+Barriers to volunteering with the OAC?
+
+How should the OAC engage with the community?
+
+What services could the OAC provide?
+
+Climbing presentation by the OAC?
+
+Would you financially support the OAC?
+
+Other crag presence?
+
+How to share environmental info / best practices?
+
+Encourage good climber behaviour?
+
+Best way to educate those who just don't know that outdoors not climbing gym?
+
+Do you engage in protecting climbing environments currently? Do you intend to do so in the future? If so, how?
+
+The OAC would like to develop conservation-related materials that might be presented as part of a gym-led gym-to-crag program. How could we make this happen?
+
+What could we be doing better in our relationships with land managers?
+
+How could we better involve the climbing community in our relationship with land managers?
+
+Postal Code
+Age
+Pronouns
+Occupational
+
+--
+MEC
+How do you most often shop at MEC?
+Which MEC store?
+What gear should MEC carry that it currently does not carry?
+Considering your most recent visits to a MEC store, were you satisfied with your experience? Why or why not?
+Considering your most recent visits to a MEC store, were you satisfied with your experience? Why or why not? [Comment]
+Considering your most recent visits to the MEC website, were you satisfied with your experience?
+Considering your most recent visits to the MEC website, were you satisfied with your experience? [Comment]
+Other comments about MEC gear selection
