@@ -71,12 +71,19 @@ Other: 9
 Total: 157
 
 How should the OAC engage with the community?
+[how-to-engage.png]
 
 What services could the OAC provide?
 
 Climbing presentation by the OAC?
 
 Would you financially support the OAC?
+
+would donate more: 58
+general positive sentiment: 13
+supportive but: 9
+leaning no: 8
+tell me more: 16
 
 Other crag presence?
 
@@ -95,6 +102,8 @@ What could we be doing better in our relationships with land managers?
 How could we better involve the climbing community in our relationship with land managers?
 
 Postal Code
+[postal-code.png]
+
 Age
 Pronouns
 Occupational
