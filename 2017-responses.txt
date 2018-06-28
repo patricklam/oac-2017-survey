@@ -74,8 +74,19 @@ How should the OAC engage with the community?
 [how-to-engage.png]
 
 What services could the OAC provide?
+TODO
 
 Climbing presentation by the OAC?
+Much support across a variety of speaker types, including locals.
+[TODO: code this answer]
+
+Selected responses:
+
+I would go. The speaker needs to somehow help promote the OAC's goals rather than their personal "accomplishments."
+I would like to hear more about ontario climbing history.
+I would like to learn more about the history of climbing, the mental state of climbing, climbers pushing their limits, breaking barriers, paraclimbing.
+Someone who has set routes at local crags, trad climbers, world travellers
+Someone who not only inspires great feats of strength or dedication in climbing, but also in making it sustainable and continually accessible to all for years to come.
 
 Would you financially support the OAC?
 
@@ -86,12 +97,16 @@ leaning no: 8
 tell me more: 16
 
 Other crag presence?
+TODO
 
 How to share environmental info / best practices?
+TODO
 
 Encourage good climber behaviour?
+TODO
 
 Best way to educate those who just don't know that outdoors not climbing gym?
+TODO
 
 Do you engage in protecting climbing environments currently? Do you intend to do so in the future? If so, how?
 
@@ -106,10 +121,17 @@ The OAC would like to develop conservation-related materials that might be prese
 What could we be doing better in our relationships with land managers?
 
 selected responses:
-Climbing advocates to discuss with land managers. Volunteer to take land managers out for a day to see the activities. Allow feedback both ways.
-
+Develop unique solutions. EG. In Chattanooga, you can actually text a landowner to tell them you're there. They have a tip jar on their crag. It's a strange solution but it could work. Or ask for specific waivers for areas.
+I admittedly don't know a lot about what is being done, do I can't comment too well on this. With this in mind I would say the most important things is keeping in mind the POV of the land manager. Educating them as best possible is key about climbing, what may happen re: injuries, damage to nature, traffic etc and where, when, how they may be liable.
+I think providing land managers with regular services such as garbage pick up, or land maintenance  would help keep up our relationships with them. These services could be turned into full-scale events to raise awareness for the OAC. Win-Win.
 
 How could we better involve the climbing community in our relationship with land managers?
+
+selected responses:
+Climbing advocates to discuss with land managers. Volunteer to take land managers out for a day to see the activities. Allow feedback both ways.
+Have a land manager "spotlight" on the OAC website
+Just becoming aware of this issue has made me a better climber, from a perspective of involvement with land management. Having a mindset of good relationship between ourselves and land management affects our behaviour in a positive way. Climbers ought to be ambassadors for our sport. I've been able to make comments about beneficial activity I've observed by other climbers to, specifically, Halton parks staff. I've also had parks staff observe me packing out trash that I've gathered during my climbing session. These behaviours, I believe, affect our relationship with land managers at a grass-roots level. 
+Meeting each other in person. Land owners and climbers coming together. Social event? Or a meeting. Or at earth day...
 
 Postal Code
 [postal-code.png]
@@ -118,7 +140,10 @@ Age
 [age.png]
 
 Pronouns
+[pronouns.png]
+
 Occupational
+[occupational.png]
 
 --
 MEC
